@@ -1,5 +1,6 @@
 dajaResponser
 =============
+作ってから気がついたけどResponserじゃなくてResponderだったかもしれん
 
 ダジャレ自動生成
 
